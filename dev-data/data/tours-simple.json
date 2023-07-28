@@ -1,0 +1,145 @@
+[
+  {
+    "id": 0,
+    "name": "Kennedy Space Center Day Trip",
+    "duration": 10,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 37,
+    "price": 70,
+    "summary": "Take an out-of-this-world day trip to the awe-inspiring Kennedy Space Center",
+    "description": "Spend hours exploring the NASA world-class facility, launchpads, and rocket exhibits like Saturn V. Participate in the simulated Shuttle Launch Experience, see stellar IMAX films, and get first-hand space stories at Astronaut Encounter. \nHave lunch with a veteran astronaut and other sightseeing experiences.",
+    "imageCover": "tour-1-cover.jpg",
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "startDates": ["2022-04-25,10:00", "2022-07-20,10:00", "2022-10-05,10:00"]
+  },
+
+  {
+    "id": 1,
+    "name": "Helicopter Night Tour",
+    "duration": 1,
+    "maxGroupSize": 4,
+    "difficulty": "medium",
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 23,
+    "price": 125,
+    "summary": "Get a bird’s eye view of the theme parks, the Orlando Eye, even catch some fireworks",
+    "description": "See magical Orlando from a helicopter! You can have a bird’s eye view of the theme parks, the Orlando Eye, the Florida sunset or even catch some fireworks on your sightseeing chopper tour. \nThe pilot’s commentary will fill you in on all the details of the sights of the city, making this ride one of the highlights of your trip.",
+    "imageCover": "tour-2-cover.jpg",
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "startDates": ["2022-06-19,10:00", "2022-07-20,10:00", "2022-08-18,10:00"]
+  },
+
+  {
+    "id": 2,
+    "name": "Miami Day Tour",
+    "duration": 16,
+    "maxGroupSize": 10,
+    "difficulty": "medium",
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 13,
+    "price": 129,
+    "summary": "Visit one of Florida’s most popular destinations, the vibrant metropolis of Miami",
+    "description": "On this guided full-day trip from Orlando. Enjoy three hours at Bayside Marketplace or head to the beaches of Miami for a leisurely cruise on Biscayne Bay. \nAfter lunch, explore the Art Deco district of South Beach, including Ocean Drive, one of the most popular hot spots in the world. An Orlando hotel pickup and drop-off plus a continental breakfast-to-go are included.",
+    "imageCover": "tour-3-cover.jpg",
+    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "startDates": ["2022-01-05,10:00", "2022-02-12,10:00", "2023-01-06,10:00"]
+  },
+
+  {
+    "id": 3,
+    "name": "Magic Comedy Dinner Show",
+    "duration": 4,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 54,
+    "price": 37,
+    "summary": "Experience mix of magic and comedy at the unforgettable Outta Control Dinner Show",
+    "description": "Head to the venue and grab your reserved seat for a 90-minute improv comedy performance full of energy, interaction and fun. While you watch, enjoy pizza, salad and soft drinks. \nAllow yourself to be swept away by the incredible performance that’ll have you rolling in the aisles! Admission to WonderWorks amusement park or an exciting Lazer-tag game.",
+    "imageCover": "tour-4-cover.jpg",
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": ["2022-03-11,10:00", "2022-05-02,10:00", "2022-06-09,10:00"]
+  },
+
+  {
+    "id": 4,
+    "name": "Saint Augustine Day Trip",
+    "duration": 10,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 19,
+    "price": 85,
+    "summary": "Step back in time with a visit to enchanting St Augustine",
+    "description": "One of America’s oldest towns - St Augustine spend hours on your favorite activities. \nStroll along cobbled pathways, admire Spanish Colonial architecture, indulge in delicious seafood at a waterside restaurant, see historic landmarks, and add on an optional sightseeing cruise or trolley tour.",
+    "imageCover": "tour-5-cover.jpg",
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "startDates": ["2022-08-05,10:00", "2023-03-20,10:00", "2023-08-12,10:00"]
+  },
+
+  {
+    "id": 5,
+    "name": "The Everglades Airboat Tour",
+    "duration": 5,
+    "maxGroupSize": 14,
+    "difficulty": "easy",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 28,
+    "price": 102,
+    "summary": "This exciting nature tour includes Wild Florida Airboats and Wildlife Park",
+    "description": "Escape to the wilderness of the Florida Everglades on this airboat adventure. With over 200 different animals like lemurs, sloths, zebras, watusi cattle, bobcats and more. \nEnjoy a delicious barbeque lunch at the Chomp House Grill, plus an alligator souvenir.",
+    "imageCover": "tour-6-cover.jpg",
+    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+    "startDates": ["2022-04-19,10:00", "2022-09-06,10:00", "2023-03-18,10:00"]
+  },
+
+  {
+    "id": 6,
+    "name": "Dolphin and Manatee Paddleboard Tour",
+    "duration": 3,
+    "maxGroupSize": 8,
+    "difficulty": "difficult",
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 35,
+    "price": 65,
+    "summary": "The manatee- and dolphin-rich waters off the coast beckon visitors to explore.",
+    "description": "This half-day exploration seeks out these animals from the comfort of a stand-up paddleboard. Guides lead you under seven bridges, around an island, and through several scenic canals in search of wildlife. \nTours are slow-paced and geared toward all ages and skill levels and take place in a calm bay.",
+    "imageCover": "tour-7-cover.jpg",
+    "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+    "startDates": ["2022-02-12,10:00", "2022-04-14,10:00", "2022-09-01,10:00"]
+  },
+
+  {
+    "id": 7,
+    "name": "Glass Bottom Kayak Tour",
+    "duration": 2,
+    "maxGroupSize": 8,
+    "difficulty": "hard",
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 28,
+    "price": 65,
+    "summary": "Grab an underwater view of the shipwrecks, caves, and more via glass bottom kayaks!",
+    "description": "We'll share our waterways with an abundance of wildlife such as manatees, alligators, turtles, otters, monkeys, fish and birds! \nThis is an experience you'll never forget; equal parts serene and adventurous and appropriate for all ages and experience levels!",
+    "imageCover": "tour-8-cover.jpg",
+    "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+    "startDates": ["2022-03-23,10:00", "2022-10-25,10:00", "2023-01-30,10:00"]
+  },
+
+  {
+    "id": 8,
+    "name": "Pontoon Lake Tours",
+    "duration": 4,
+    "maxGroupSize": 12,
+    "difficulty": "easy",
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 33,
+    "price": 105,
+    "summary": "Discover why the Chain of Lakes in Winter Haven attracted golden era movie stars.",
+    "description": "This narrated pontoon boat tour cruises you through the Chain of Lakes to some historic sites. Along with a history lesson of the area, you might see birds, otters, alligators, and other animals in their natural habitat. \nYou’ll also have the choice to stop at one of five different restaurants on the water.",
+    "imageCover": "tour-9-cover.jpg",
+    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+    "startDates": ["2022-12-16,10:00", "2023-01-16,10:00", "2023-12-12,10:00"]
+  }
+]
